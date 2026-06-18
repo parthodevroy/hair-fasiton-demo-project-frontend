@@ -18,7 +18,7 @@ const ServiceDetails = () => {
   const [bookingLoading, setBookingLoading] = useState(false);
 
   useEffect(() => {
-    fetch(`https://hair-fasiton-demo-project-backend.vercel.app/service/${id}`)
+    fetch(`https://hair-fasiton-demo-project-backend-r.vercel.app/service/${id}`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch service details");
         return res.json();

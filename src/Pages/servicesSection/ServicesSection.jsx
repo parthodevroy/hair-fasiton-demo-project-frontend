@@ -9,7 +9,7 @@ const ServicesSection = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("https://hair-fasiton-demo-project-backend.vercel.app/service")
+    fetch("https://hair-fasiton-demo-project-backend-r.vercel.app/service")
       .then((res) => res.json())
       .then((data) => {
         setServices(data);

@@ -7,7 +7,7 @@ A modern, responsive, and full-stack web application designed for a premium hair
 ## 🚀 Live Links
 
 * **Frontend Live:** [https://hair-fasiton-demo-project-frontend.vercel.app](https://your-frontend-link.vercel.app) *(Update with actual link)*
-* **Backend API Live:** [https://hair-fasiton-demo-project-backend.vercel.app](https://hair-fasiton-demo-project-backend.vercel.app/) *(Update with actual link)*
+* **Backend API Live:** [https://hair-fasiton-demo-project-backend.vercel.app](https://hair-fasiton-demo-project-backend-r.vercel.app/) *(Update with actual link)*
 
 ---
 
