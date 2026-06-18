@@ -5,7 +5,6 @@ import { MoveLeft, Car } from "lucide-react";
 const notFound = () => {
   return (
     <div className="min-h-screen bg-[#1B2532] flex items-center justify-center relative overflow-hidden px-6">
-      {/* Background Decorative Element */}
       <div className="absolute inset-0 opacity-10 pointer-events-none">
         <h1 className="text-[20vw] font-[1000] text-white absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 italic uppercase">
           Lost
