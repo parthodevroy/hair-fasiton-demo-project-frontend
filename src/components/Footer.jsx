@@ -67,13 +67,13 @@ const Footer = () => {
               <li className="flex items-start gap-3 group">
                 <MapPin size={20} className="text-pink-500 mt-1 shrink-0" />
                 <span className="text-neutral-400 text-[14px] leading-relaxed group-hover:text-white transition-colors">
-                  572 N Frederick Avenue, <br />Gaithersburg, MD 20877
+                  your address xx, <br /> MD 20877
                 </span>
               </li>
               <li className="flex items-center gap-3 group">
                 <Mail size={20} className="text-pink-500 shrink-0" />
                 <a href="mailto:diamond.style.braidsalon@gmail.com" className="text-neutral-400 text-[14px] group-hover:text-white transition-colors break-all">
-                  yeminyi.style.braidsalon@gmail.com
+                  example@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-3 group">

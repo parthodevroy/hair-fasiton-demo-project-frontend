@@ -5,19 +5,20 @@ const HeroSection = () => {
 
   const slides = [
     {
-      img: "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2Fsb258ZW58MHx8MHx8fDA%3D",
+      img: "https://images.pexels.com/photos/20444522/pexels-photo-20444522.jpeg",
       title1: "Braids Make",
       highlight: "Beauty",
       subtitle: "From traditional styles to modern trends, we are dedicated to making you look and feel beautiful. Our experienced stylists bring your unique vision to life."
     },
     {
-      img: "https://images.pexels.com/photos/3992875/pexels-photo-3992875.jpeg",
+      
+      img: "https://images.pexels.com/photos/36587243/pexels-photo-36587243.jpeg",
       title1: "Premium",
       highlight: "Hairstyles",
       subtitle: "Experience luxury hair braiding tailored to your lifestyle. We offer top-tier comfort and flawless execution for all hair types."
     },
     {
-      img: "https://images.pexels.com/photos/4783329/pexels-photo-4783329.jpeg",
+      img: "https://images.pexels.com/photos/29189917/pexels-photo-29189917.jpeg",
       title1: "Define Your",
       highlight: "Confidence",
       subtitle: "Every braid tells a story of elegance and precision. Book your slot today and walk out with absolute confidence and premium grace."

@@ -70,7 +70,7 @@ const ContactUs = () => {
                 <div>
                   <h4 className="text-sm font-bold text-neutral-800 uppercase tracking-wider">Our Location</h4>
                   <p className="text-neutral-600 text-sm mt-1 leading-relaxed">
-                    572 N Frederick Avenue,<br />Gaithersburg, MD 20877
+                    your address,<br />xx, MD 20877
                   </p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ const ContactUs = () => {
                 <div>
                   <h4 className="text-sm font-bold text-neutral-800 uppercase tracking-wider">Email Us</h4>
                   <a href="mailto:diamond.style.braidsalon@gmail.com" className="text-neutral-600 hover:text-[#e11d48] text-sm mt-1 block transition-colors break-all">
-                    hair.style.braidsalon@gmail.com
+                    example@gmail.com
                   </a>
                 </div>
               </div>
