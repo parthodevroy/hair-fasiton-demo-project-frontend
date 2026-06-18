@@ -1,22 +1,21 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import CarListingSection from './CarListingSection';
-import ServiceFeaturesSection from './ServiceFeaturesSection';
-import StatsSection from './StatsSection';
-import CarFleet from './CarFleet';
-import CustomerReviews from './CustomerReviews';
-import ContactForm from './ContactForm';
+
+import ServicesSection from './servicesSection/ServicesSection';
+import Gallary from './gallary/Gallary';
+import ContactUs from './contactUS/ContactUs';
+import WhyChooseUs from './WhyChooseUs';
+import HeroSection from './hero/HeroSection';
 
 const Home = () => {
     return (
         <div>
            <HeroSection/>
-           <CarListingSection/>
-           <ServiceFeaturesSection/>
-           <StatsSection/>
-           <CarFleet/>
-           <CustomerReviews/>
-           <ContactForm/>
+           <ServicesSection/>
+           
+           <Gallary/>
+           <WhyChooseUs/>
+           <ContactUs/>
+           
         </div>
     );
 };
